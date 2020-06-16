@@ -1,0 +1,1 @@
+the verify stash command
